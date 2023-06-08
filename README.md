@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 📖 I’m currently studying full-stack web development
-- 💼 Looking for employment opportunities
+- 📖 I’m currently focused on learning various frameworks and languages
+- 💼 Software developer at Modern Health Canada
 - 📫 How to reach me: www.linkedin.com/in/alex-raffa
 - 🔥 Interested in creating helpful, intuitive and unique products
 
